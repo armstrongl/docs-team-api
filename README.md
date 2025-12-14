@@ -101,8 +101,16 @@ Ready-to-use templates for implementing the framework in your organization.
 
 | Template | Description |
 |----------|-------------|
+| [Overview template](templates/overview-template.md) | Template for team API overview documents. |
+| [Intake template](templates/intake-template.md) | Template for documentation intake requests. |
+| [Timeline template](templates/timeline-template.md) | Template for milestone timelines. |
+| [Complexity framework template](templates/complexity-framework-template.md) | Template for complexity assessment criteria. |
 | [Documentation plan](templates/documentation-plan.md) | Fill-in template for documentation plans. |
+| [Writer assignment template](templates/writer-assignment-template.md) | Template for writer assignment processes. |
+| [Minimum requirements template](templates/minimum-requirements-template.md) | Template for intake prerequisites. |
 | [RACI template](templates/raci-template.md) | Blank RACI for customization. |
+| [Glossary template](templates/glossary-template.md) | Template for terminology definitions. |
+| [Feature documentation template](templates/feature-documentation-template.md) | Template for feature documentation requirements. |
 
 ### Examples
 
