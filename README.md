@@ -1,6 +1,6 @@
 # Docs team API
 
-A framework for docs teams to define how other teams work with them. Based on the concept of a "eam API," this framework makes implicit collaboration patterns explicit by defining input contracts, output contracts, SLAs, and error handling.
+A framework for docs teams to define how other teams work with them. Based on the concept of a "team API," this framework makes implicit collaboration patterns explicit by defining input contracts, output contracts, SLAs, and error handling.
 
 You can adapt this framework for other types of teams beyond docs teams.
 
