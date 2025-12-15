@@ -1,6 +1,6 @@
 # Docs team API
 
-A framework for docs teams to define how other teams work with them. Based on the concept of a "Team API," this framework makes implicit collaboration patterns explicit by defining input contracts, output contracts, SLAs, and error handling.
+A framework for docs teams to define how other teams work with them. Based on the concept of a "eam API," this framework makes implicit collaboration patterns explicit by defining input contracts, output contracts, SLAs, and error handling.
 
 You can adapt this framework for other types of teams beyond docs teams.
 
@@ -83,7 +83,7 @@ Navigate the framework documentation organized by category: core framework docum
 | Document | Description |
 |----------|-------------|
 | [Overview](docs/overview.md) | Main framework document defining how teams work with docs. |
-| [What's a Team API?](docs/whats-a-team-api.md) | Explains the Team API concept and its benefits. |
+| [What's a team API?](docs/whats-a-team-api.md) | Explains the Team API concept and its benefits. |
 | [Intake process](docs/intake-process.md) | How documentation requests enter the system. |
 | [Timeline](docs/timeline.md) | Milestone relationships from planning to launch. |
 | [Complexity framework](docs/complexity-framework.md) | Low, medium, high estimation patterns for timeline planning. |
