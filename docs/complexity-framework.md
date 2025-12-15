@@ -142,9 +142,7 @@ Product evolution changes documentation patterns. Frameworks should be reviewed 
 
 ## What complexity frameworks don't do
 
-Complexity frameworks estimate review effort, not authoring effort. They help plan when writers need drafts, but they don't predict how long it takes engineers or product managers to write those drafts.
-
-Frameworks also don't replace communication. They provide shared vocabulary for discussions, but they don't eliminate the need for writers and product teams to collaborate on scope and approach.
+Frameworks don't replace communication. They provide shared vocabulary for discussions, but they don't eliminate the need for writers and product teams to collaborate on scope and approach.
 
 ## Related concepts
 
